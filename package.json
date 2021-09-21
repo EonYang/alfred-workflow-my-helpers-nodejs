@@ -1,0 +1,15 @@
+{
+  "name": "my-helper-node",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "type": "module",
+  "author": "Yang",
+  "license": "MIT",
+  "dependencies": {
+    "@types/css": "^0.0.33",
+    "alfy": "^0.12.1",
+    "css": "^3.0.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
